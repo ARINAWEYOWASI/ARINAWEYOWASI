@@ -1,0 +1,283 @@
+/* Customize Bootstrap's button */
+.btn-primary {
+    background-color: #af2f59; /* Custom pink color */
+    border: none;
+}
+
+
+
+/* Customize the heading */
+h1 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+/* Add padding to the paragraphs */
+p {
+    padding: 10px;
+}
+                
+                /* Optional styles for the login section */
+                .login-section {
+                    height: 100vh; /* Full viewport height */
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background-color: #f8f9fa; /* Light background */
+                }
+        
+                .login-form {
+                    background-color: white;
+                    padding: 30px;
+                    border-radius: 10px;
+                    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+                }
+        
+                .login-form h2 {
+                    margin-bottom: 20px;
+                    font-weight: bold;
+                    text-align: center;
+                }
+                 /* Styling for the navbar */
+        .navbar {
+            background-color: white;
+        }
+
+        .navbar-nav .nav-link {
+            color: #333;
+        }
+
+        .navbar-nav .nav-link:hover {
+            color: #000;
+        }
+
+        /* Hero section */
+        .hero-section {
+            background: linear-gradient(135deg, #b6e5d9, #a8e5fc); /* Gradient */
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 0 15px;
+        }
+
+        .hero-heading {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .hero-subheading {
+            font-size: 1.25rem;
+            color: #666;
+            margin-bottom: 30px;
+        }
+
+        /* Email form styling */
+        .email-form {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .email-form input[type="email"] {
+            border-top-left-radius: 50px;
+            border-bottom-left-radius: 50px;
+            padding-left: 20px;
+            width: 300px;
+        }
+
+        .email-form button {
+            border-top-right-radius: 50px;
+            border-bottom-right-radius: 50px;
+            background-color: #000;
+            color: white;
+            padding: 10px 30px;
+        }
+
+        /* Small text below form */
+        .form-note {
+            font-size: 0.85rem;
+            color: #888;
+            margin-top: 10px;
+        }
+       
+        
+        
+        .product {
+            margin-bottom: 20px; /* Space between products */
+        }
+        
+        .product img {
+            max-width: 100%; /* Responsive image */
+            height: 50px; /* Maintain aspect ratio */
+
+        }
+        .all{
+display: flex;
+justify-content: space-between;
+background-color: #cabebe;
+border-radius: 23px;
+
+        }
+                
+        .product1{
+            width: 100%;
+            margin-inline: 5px;
+            height: 94%;
+        }
+        .product2{
+            width: 80%;
+            margin-inline: 5px;
+            height: 94%;
+        }
+        .product3{
+            width: 80%;
+            margin-inline: 5px;
+        }
+        .product4{
+            width: 139%;
+            margin-inline: 5px;
+        }
+                
+    
+    .all2{
+display: flex;
+justify-content: space-between;
+background-color: #e3eb9f;
+border-radius: 23px;
+
+    }
+            
+    .product1{
+        width: 170%;
+        margin-inline: 5px;
+        height: 94%;
+    }
+    .product2{
+        width: 100%;
+        margin-inline: 3px;
+       
+    }
+    .product3{
+        width: 180%;
+        margin-inline: 3px;
+    }
+    .product4{
+        width: 139%;
+        margin-inline: 3px;
+    
+    }
+    .all3{
+        display: flex;
+        justify-content: space-between;
+        background-color: #9fd3eb;
+        border-radius: 23px;
+        
+            }
+                    
+            .product1{
+                width: 180%;
+                margin-inline: 3px;
+                height: 94%;
+            }
+            .product2{
+                width: 190%;
+                margin-inline: 3px;
+                height: 94%;
+            }
+            .product3{
+                width: 190%;
+                margin-inline: 3px;
+            }
+            .product4{
+                width: 139%;
+                margin-inline: 3px;
+            
+            }
+        
+            
+    
+
+            .all4{
+                display: flex;
+                justify-content: space-between;
+                background-color: #eff1f1;
+                border-radius: 23px;
+                
+                    }
+                            
+                    .product1{
+                        width: 180%;
+                        margin-inline: 3px;
+                        height: 94%;
+                    }
+                    .product2{
+                        width: 250%;
+                        margin-inline: 3px;
+            
+                    }
+                    .product3{
+                        width: 240%;
+                        margin-inline: 3px;
+                    }
+                    .product4{
+                        width: 139%;
+                        margin-inline: 3px;
+                    
+                    }  .all4{
+                        display: flex;
+                        justify-content: space-between;
+                        background-color: #eff1f1;
+                        border-radius: 23px;
+                        
+                            }
+                                    
+                            .product1{
+                                width: 180%;
+                                margin-inline: 3px;
+                                height: 94%;
+                            }
+                            .product2{
+                                width: 250%;
+                                margin-inline: 3px;
+                    
+                            }
+                            .product3{
+                                width: 270%;
+                                margin-inline: 3px;
+                            }
+                            .product4{
+                                width: 149%;
+                                margin-inline: 3px;
+                            
+                            }
+                            .btn btn-info{
+                                color: #e3eb9f;
+                            }
+                    
+                    
+            
+
+                            .all6{
+                                display: flex;
+                                justify-content: space-between;
+                                background-color: #eff1f1;
+                                border-radius: 23px;
+                                
+                                    }
+                                            
+                                    .product1{
+                                        width: 280%;
+                                        margin-inline: 3px;
+                                        height: 94%;
+                                    }
+                                    .product2{
+                                        width: 250%;
+                                        margin-inline: 3px;
+                            
+                                    }
+.first{
+    display: flex;
+}
